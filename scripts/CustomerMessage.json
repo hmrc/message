@@ -1,0 +1,19 @@
+{
+  "externalRef":{
+    "id":"2626108a-3a08-429c-b724-fd50fe129c44",
+    "source":"2WSM"
+  },
+  "recipient":{
+    "taxIdentifier":{
+      "name":"nino",
+      "value":"AB123456C"
+    },
+    "email":"test@email.com"
+  },
+  "messageType":"2wsm-customer",
+  "subject":"Important Question..",
+  "content":"V2hhdCB0aW1lIGRvZXMgdGhlIGJhciBvcGVuPw==",
+  "details":{
+    "formId":"2WSM-question"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "externalRef": {
+    "id": "123412342314",
+    "source": "2WSM"
+  },
+  "recipient": {
+    "taxIdentifier": {
+      "name": "nino",
+      "value": "AB123456C"
+    },
+    "email": "someEmail@test.com"
+  },
+  "messageType": "2wsm-advisor",
+  "subject": "QUESTION",
+  "content": "SGVsbG8gV29scmQ=",
+  "details": {
+    "formId": "2wsm-reply",
+    "replyTo": "5c85a5000000000000000001",
+    "topic": "some-topic",
+    "enquiryType": "p800",
+    "threadId": "5c85a5000000000000000000",
+    "batchId": "batch-id"
+  }
+}

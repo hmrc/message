@@ -1,0 +1,20 @@
+{
+  "externalRef":{
+    "id":"aad7921a-7926-48f8-9bcd-ebeaf12abc89",
+    "source":"2WSM"
+  },
+  "recipient":{
+    "taxIdentifier":{
+      "name":"nino",
+      "value":"AB123456C"
+    },
+    "email":"test@email.com"
+  },
+  "messageType":"2wsm-advisor",
+  "subject":"Important Response ..",
+  "content":"GVsbG8gV29ybGQ=",
+  "details":{
+    "formId":"2WSM-reply",
+    "replyTo":"5c4af5bcb300002702cb7576"
+  }
+}
