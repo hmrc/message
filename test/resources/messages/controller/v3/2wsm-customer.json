@@ -1,0 +1,19 @@
+{
+  "externalRef": {
+    "id": "123412342314",
+    "source": "2WSM"
+  },
+  "recipient": {
+    "taxIdentifier": {
+      "name": "nino",
+      "value": "AB123456C"
+    },
+    "email": "someEmail@test.com"
+  },
+  "messageType": "2wsm-customer",
+  "subject": "QUESTION",
+  "content": "SGVsbG8gV29scmQ=",
+  "details": {
+    "formId": "2wsm-question"
+  }
+}

@@ -1,1 +1,8 @@
 repoVisibility: public_0C3F0CE3E6E6448FAD341E7BFA50FCD333E06A20CFF05FCACE61154DDBBADF71
+digital-service: Digital Contact
+description: Storage of messages from HMRC to platform users,issuing new message alerts via email and handling of two-way secure messages as conversations.
+type: service
+service-type: Backend
+test-repositories:
+  - digital-contact-performance-tests
+tags: []
