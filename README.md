@@ -1,10 +1,3 @@
-## Notice
-
-This service has been deprecated & will be decommissioned eventually in favour of [secure-message](https://github.com/hmrc/secure-message)
-
-This repository has been archived. The latest code has been migrated (in July 2026) to the public repository:
-https://github.com/hmrc/message
-
 # message
 
 # Overview
