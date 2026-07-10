@@ -1,3 +1,6 @@
+## Notice
+This service has been deprecated & will be decommissioned eventually in favour of [secure-message](https://github.com/hmrc/secure-message)
+
 # message
 
 # Overview
